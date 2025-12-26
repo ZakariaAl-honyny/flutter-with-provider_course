@@ -1,2 +1,2 @@
 # flutter-provider_course
-Learn and Implement Flutter and State management with provider
+Learn and Implement Flutter with State management by Provider
